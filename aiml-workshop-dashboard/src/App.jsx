@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Download, FileArchive, Brain, Users, Calendar, MapPin } from 'lucide-react';
+import { Download, FileArchive, Brain, Calendar } from 'lucide-react';
 import './App.css';
 
 function App() {
